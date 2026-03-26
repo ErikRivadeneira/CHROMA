@@ -4,6 +4,11 @@ Chroma is a small puzzle prototype built around a state-based interaction system
 
 The design explores how multiple simple states can be combined to create layered interactions within a constrained scope.
 
+## Project Status
+
+This prototype is complete and will not receive further feature updates.  
+It is maintained as a portfolio piece demonstrating system design and readability-focused interaction.
+
 ## Overview
 
 The player interacts with the world through two main states: color and size.
